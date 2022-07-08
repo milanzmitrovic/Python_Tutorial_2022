@@ -5,6 +5,40 @@
 
 ## 1. Concepts and Vocabulaty
 
+#### 1.1 Programming Languages
+#### 1.2 Operating Systems
+#### 1.3 Terminal
+#### 1.4 Text Editors
+#### 1.5 IDEs
+#### 1.6 Comments
+#### 1.7 Style Guides
+#### 1.8 Project Specification
+#### 1.9 Syntax
+#### 1.10 Debugging
+#### 1.11 Refactoring
+#### 1.12 Standard Library
+#### 1.13 Third-Party Libraries
+#### 1.14 Frameworks
+#### 1.15 Error Handling
+#### 1.16 Version Control
+#### 1.17 Testing
+#### 1.18 User Interfaces
+#### 1.19 Databases
+#### 1.20 Data Structures and Types
+#### 1.21 Variables
+#### 1.22 Strings
+#### 1.23 Numerical Data Types
+#### 1.24 Sequences
+#### 1.25 Mappings 
+#### 1.26 Functions
+#### 1.27 Classes
+#### 1.28 Inheritance
+#### 1.29 Other Data Types
+#### 1.30 If Statements
+#### 1.31 Loop
+#### 1.32 Modules
+#### 1.33 Saving States
+
 ## 2. Simple Data Types
 
 #### 2.1 Variables
