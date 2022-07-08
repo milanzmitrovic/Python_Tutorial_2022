@@ -66,6 +66,13 @@
 
 ## 4. Dictionaries
 
+#### 4.1 About Dictionaries
+#### 4.2 Dictionary Methods
+#### 4.3 Looping Through a Dictionary
+#### 4.4 Example Dictionaries
+#### 4.5 Nesting: A List of Dictionaries
+#### 4.6 Nesting: A List in a Dictionary
+
 ## 5. Conditional Statements
 
 ## 6. Functions
