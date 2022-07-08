@@ -98,6 +98,16 @@
 
 ## 7. Classes
 
+#### 7.1 About Classes
+#### 7.2 Methods
+#### 7.3 Making Instances
+#### 7.4 Adding Methods
+#### 7.5 Multiple Instances
+#### 7.6 Inheritance
+#### 7.7 Child Class Methods
+#### 7.8 Overriding Parent Class Methods
+#### 7.9 Storing Classes in Modules
+
 ## 8. Testing
 
 ## 9. Packages
