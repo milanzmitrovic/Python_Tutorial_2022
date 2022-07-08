@@ -1,4 +1,4 @@
-# python_tutorial_2022
+# Python Tutorial 2022
 
 
 ## 0. Intro
