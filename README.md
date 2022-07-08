@@ -53,6 +53,17 @@
 
 ## 3. Lists and Tuples
 
+#### 3.1 Lists
+#### 3.2 Removing Items from Lists
+#### 3.3 Slicing a List
+#### 3.4 Copying a List
+#### 3.5 Looping Through List
+#### 3.6 Sorting List
+#### 3.7 Reverse Sorting List
+#### 3.8 Numerical Lists
+#### 3.9 List Comprehensions
+#### 3.10 Tuples
+
 ## 4. Dictionaries
 
 ## 5. Conditional Statements
