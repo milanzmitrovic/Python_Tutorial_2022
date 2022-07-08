@@ -84,6 +84,18 @@
 
 ## 6. Functions
 
+#### 6.1 About Functions
+#### 6.2 Passing Arguments
+#### 6.3 Positional Arguments
+#### 6.4 Arbitrary Positional Arguments
+#### 6.5 Keyword Arguments
+#### 6.6 Arbitrary Keyword Arguments
+#### 6.7 Default Values
+#### 6.8 Return Values
+#### 6.9 Modules
+#### 6.10 Importing Functions
+#### 6.11 Importing Specific Functions
+
 ## 7. Classes
 
 ## 8. Testing
