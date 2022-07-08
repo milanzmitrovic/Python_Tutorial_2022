@@ -34,7 +34,7 @@
 #### 1.27 Classes
 #### 1.28 Inheritance
 #### 1.29 Other Data Types
-#### 1.30 If Statements
+#### 1.30 if Statements
 #### 1.31 Loop
 #### 1.32 Modules
 #### 1.33 Saving States
@@ -74,6 +74,13 @@
 #### 4.6 Nesting: A List in a Dictionary
 
 ## 5. Conditional Statements
+
+#### 5.1 About Conditional Statements
+#### 5.2 if Statements
+#### 5.3 if-else Statements
+#### 5.4 User Input
+#### 5.5 while Loops
+#### 5.6 The break and continue Statements
 
 ## 6. Functions
 
