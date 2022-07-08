@@ -110,5 +110,16 @@
 
 ## 8. Testing
 
+#### 8.1 unittest Module
+#### 8.2 Testing Functions
+#### 8.3 Running a Passing Test
+#### 8.4 Running a Failing Test
+#### 8.5 Fixing a Failing Test
+#### 8.6 The setUp() Method
+
 ## 9. Packages
+
+#### 9.1 Installing Packages
+#### 9.2 Uninstalling Python Packages
+
 
