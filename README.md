@@ -4,6 +4,8 @@
 
 ## *** More information about Eric Matthes' book and [additional lecture materials](https://ehmatthes.github.io/pcc_2e/regular_index/) can be found on [book's website](https://ehmatthes.github.io/pcc_2e/) 
 
+##
+##
 
 ### Questions that we are going to answer regarding each new element we learn:
 1. What is it?
