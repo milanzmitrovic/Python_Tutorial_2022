@@ -5,6 +5,18 @@
 ## *** More information about Eric Matthes' book and [additional lecture materials](https://ehmatthes.github.io/pcc_2e/regular_index/) can be found on [book's website](https://ehmatthes.github.io/pcc_2e/) 
 
 
+### Questions that we are going to answer regarding each new element we learn:
+1. What is it?
+2. What is it used for?
+3. What can we do with it?
+4. What are some alternatives?
+5. Why do we need it?
+6. What problems it solves us?
+7. What does it enable us to do?
+8. How important it is?
+9. Where does it fit in general CS/programming picture?
+
+
 ## 0. Intro
 
 ## 1. Concepts and Vocabulaty
