@@ -13,7 +13,7 @@
 3. What can we do with it?
 4. What are some alternatives?
 5. Why do we need it?
-6. What problems it solves us?
+6. What problems it solves to us?
 7. What does it enable us to do?
 8. How important it is?
 9. Where does it fit in general CS/programming picture?
