@@ -17,7 +17,7 @@
 7. What does it enable us to do?
 8. How important it is?
 9. Where does it fit in general CS/programming picture?
-
+##
 
 ## 0. Intro
 
