@@ -2,7 +2,7 @@
 
 ## *** Materials for this course are comming from book [Python Crash Course](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280) by Eric Matthes. 
 
-## *** More information about Eric Matthes' book and [additional lecture materials](https://ehmatthes.github.io/pcc_2e/regular_index/) can be found on [book's website](https://ehmatthes.github.io/pcc_2e/) 
+## *** More information about Eric Matthes' book and [additional lecture materials](https://ehmatthes.github.io/pcc_2e/regular_index/) can be found on [book's website](https://ehmatthes.github.io/pcc_2e/) .
 
 ##
 
