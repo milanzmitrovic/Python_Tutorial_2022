@@ -26,12 +26,12 @@
 12. History!!!
   - What did people use before this concept/element was invented?
 13. What is 'zero point'?
-  - 'Zero piont' is programming concept that will not be explainde.
+  - 'Zero piont' is programming concept that will not be explained.
   - It can't be explained easily.
-  - It is something from which we start.
+  - It is something from which we start. We take it as granted.
   - We use it to explain other programming concepts and elements.
   - Analogy from mathematics is 'point'. There is no explanation of it. We just use it to explain more advanced elements (lines, planes, hyperplanes...)
-
+  - Examples: integers, floats, letters, boolean values... We take it as granted, we already know what it is!
 ##
 ##
 
