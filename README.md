@@ -18,8 +18,8 @@
 8. How important it is?
 9. Where does it fit in general CS/programming picture?
 10. Imagine this programming element hadn't beed invented. 
-- How could we replicate its behaviour? 
-- What other elements can we use to get same results?
+  - How could we replicate its behaviour? 
+  - What other elements can we use to get same results?
 ##
 ##
 
