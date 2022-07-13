@@ -22,7 +22,15 @@
   -  What other elements can we use to get same results?
 11. WHY question!!!
   - What do we want to achieve and as a consequence we need to use this programming concept/element?
-  - What is our business idea whoce translation into code requires use of this programming concept?
+  - What is our business idea whose translation into code requires use of this programming concept?
+12. History!!!
+  - What did people use before this concept/element was invented?
+13. What is 'zero point'?
+  - 'Zero piont' is programming concept that will not be explainde.
+  - It can't be explained easily.
+  - It is something from which we start.
+  - We use it to explain other programming concepts and elements.
+  - Analogy from mathematics is 'point'. There is no explanation of it. We just use it to explain more advanced elements (lines, planes, hyperplanes...)
 
 ##
 ##
