@@ -20,6 +20,10 @@
 10. Imagine this programming element hadn't beed invented. 
   -  How could we replicate its behaviour? 
   -  What other elements can we use to get same results?
+11. WHY question!!!
+  - What do we want to achieve and as a consequence we need to use this programming concept/element?
+  - What is our business idea whoce translation into code requires use of this programming concept?
+
 ##
 ##
 
