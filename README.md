@@ -35,7 +35,7 @@
 14. You will spend most of your (work)day on DEBUGGING i.e. figuring out why something does not work properly. 
   - Time that you spend on DEBUGGING will be even more than time used for modelling and conceptual thinking! 
   - So, be patient and get used to errors. Remember, error that is caught is better than hidden error. 
-  - Also, integrating elements and making them work together is crutial part of DEBUGGING. Most of the time, it is 'try and error' type of work.
+  - Also, integrating elements and making them work together is crucial part of DEBUGGING. Most of the time, it is 'try and error' type of work.
 ##
 ##
 
