@@ -32,6 +32,7 @@
   - We use it to explain other programming concepts and elements.
   - Analogy from mathematics is 'point'. There is no explanation of it. We just use it to explain more advanced elements (lines, planes, hyperplanes...)
   - Examples: integers, floats, letters, boolean values... We take it as granted, we already know what it is!
+14. Part that you will spend most of the time is DEBUGGING i.e. figuring out why something does not work properly. You will spend even more time on DEBUGGING than on modelling and conceptual thinking!
 ##
 ##
 
