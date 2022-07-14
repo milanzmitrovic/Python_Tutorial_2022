@@ -25,14 +25,17 @@
   - What is our business idea whose translation into code requires use of this programming concept?
 12. History!!!
   - What did people use before this concept/element was invented?
-13. What is 'zero point'?
+
+### Learning Tips
+1. What is 'zero point'?
   - 'Zero piont' is programming concept that will not be explained.
   - It can't be explained easily.
   - It is something from which we start. We take it as granted.
   - We use it to explain other programming concepts and elements.
   - Analogy from mathematics is 'point'. There is no explanation of it. We just use it to explain more advanced elements (lines, planes, hyperplanes...)
   - Examples: integers, floats, letters, boolean values... We take it as granted, we already know what it is!
-14. You will spend most of your (work)day on DEBUGGING i.e. figuring out why something does not work properly. 
+  
+2. You will spend most of your (work)day on DEBUGGING i.e. figuring out why something does not work properly. 
   - Time that you spend on DEBUGGING will be even more than time used for modelling and conceptual thinking! 
   - So, be patient and get used to errors. Remember, error that is caught is better than hidden error. 
   - Also, integrating elements and making them work together is crucial part of DEBUGGING. Most of the time, it is 'try and error' type of work.
