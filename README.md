@@ -45,7 +45,7 @@
   - Try and error, experimenting and debugging are integral parts of development process.
   - Do not have wrong expectations that anything will work when you try it for the first time. Be happy if it works after 5 trials.
   - Do not pressure yourself with wrong expectations.
-  - Let's 'normalize' work you devote to experimenting, debugging and combining elements.
+  - Let's 'normalize' work you devote to experimenting, debugging, combining elements and integrating things (making them work togather).
   - Work and time you spend on experimenting and debugging are in the heart of programming business. 
   - Debugging and experimenting accounts for more than 80% of developers hours.
   - So, instead of saying to yourself "let's have some code done", tell it "let's experiment, let's debug, let's have try and error session".
