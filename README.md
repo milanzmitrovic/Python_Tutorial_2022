@@ -50,6 +50,9 @@
   - Debugging and experimenting accounts for more than 80% of developers hours.
   - So, instead of saying to yourself "let's have some code done", tell it "let's experiment, let's debug, let's have try and error session".
  
+ 4. How to organize your work and be efficient in long run?
+  - Design system i.e. write sequence of simple steps that should be accomplished.
+  - Focus on one step at a time.
 
 ##
 ##
