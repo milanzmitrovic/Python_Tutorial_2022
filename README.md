@@ -43,6 +43,7 @@
 3. In real life, things are never happening as they are presented movies (in this case, videos produced by programming bootcamps).
   - In code development, there are no such a fancy and elegant things that are working from first attempt.
   - Try and error, experimenting and debugging are integral parts of development process.
+  - Reading documentation and integrating other developer's code into our application is important skill that should be mastered!
   - Do not have wrong expectations that anything will work when you try it for the first time. Be happy if it works after 5 trials.
   - Do not pressure yourself with wrong expectations.
   - Let's 'normalize' work you devote to experimenting, debugging, combining elements and integrating things (making them work togather).
