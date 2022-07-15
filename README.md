@@ -48,6 +48,7 @@
   - Let's 'normalize' work you devote to experimenting, debugging and combining elements.
   - Work and time you spend on experimenting and debugging are in the heart of programming business. 
   - Debugging and experimenting accounts for more than 80% of developers hours.
+  - So, instead of saying to yourself "let's code", tell it "let's experiment, let's debugg, let'r have try and error session".
  
 
 ##
