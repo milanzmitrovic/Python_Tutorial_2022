@@ -53,8 +53,8 @@
  4. How to organize your work and be efficient in long run?
   - Design system i.e. write sequence of simple steps that should be accomplished.
   - Focus on one step at a time.
-  - Expect that it will not work from first 5 attempts and devote enough time for experimenting and integrating things!!!
- 
+  - Expect that things you planned to implement will not work first 5 attempts and devote enough time for experimenting and integrating things!!!
+
 ##
 ##
 
