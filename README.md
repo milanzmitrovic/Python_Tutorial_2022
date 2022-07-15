@@ -40,7 +40,7 @@
   - So, be patient and get used to errors. Remember, error that is stopping you is better than hidden error. 
   - Also, integrating elements and making them work together is crucial part of DEBUGGING. Most of the time, it is 'try and error' type of work.
 
-3. In real life, things are never happening as they are presented movies (in this case, movies produced by programming bootcamps).
+3. In real life, things are never happening as they are presented movies (in this case, videos produced by programming bootcamps).
   - In code development, there are no such a fancy and elegant things that are working from first attempt.
   - Try and error, experimenting and debugging are integral parts of development process.
   - Do not have wrong expectations that anything will work when you try it for the first time. Be happy if it works after 5 trials.
