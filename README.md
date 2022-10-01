@@ -61,6 +61,9 @@
 
 ## 0. Intro
 
+#### Tools and techniques that we are going to use: Python, PyCharm, Jupyter.
+#### General info: expectations, curriculum, how to get best value from this course.
+
 ## 1. Concepts and Vocabulaty
 
 #### 1.1 Programming Languages
