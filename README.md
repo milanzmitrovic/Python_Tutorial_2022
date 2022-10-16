@@ -136,6 +136,16 @@
 
 ## 5. Conditional Statements
 
+```python
+
+print('test test')
+
+for i in range(10):
+    print(i)
+
+
+```
+
 #### 5.1 About Conditional Statements
 #### 5.2 if Statements
 #### 5.3 if-else Statements
