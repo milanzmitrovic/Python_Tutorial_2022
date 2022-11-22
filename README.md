@@ -56,6 +56,13 @@
   - Focus on one step at a time.
   - Expect that things you planned to implement will not work first 5 attempts and devote enough time for experimenting and integrating things!!!
 
+
+### How to ask question
+### Code of conduct
+
+
+
+
 ##
 ##
 
