@@ -58,6 +58,18 @@
 
 
 ### How to ask question
+- Everyone thinks differently so it is very important to know how to ask question right way.
+- Here is framework to help you ask good questions:
+	1. What I want to achieve?
+	2. Why I want to achieve that?
+	3. How do I plan to achieve that (sequence of simple steps)?
+	4. What part of algorithm does not work?
+	5. What is reason it is not working? My opinion about root cause?
+	6. What I tried? How I tried to solve this challenge?
+	7. Where did I find solution (that does not work currently)?
+    - On what portals/forums (provide web links) I found potential solution that didn’t work?
+
+
 ### Code of conduct
 
 
