@@ -9,6 +9,7 @@
 - print()
 - id()
 - type()
+- len()
 
 
 ### Integers
@@ -41,6 +42,18 @@
 - .strip()
 - .lstrip()
 - .rstrip()
+
+
+### 'in' and 'not in' operator
+
+
+
+### String addition and multiplication
+
+
+### String indexing
+
+
 
 
 
