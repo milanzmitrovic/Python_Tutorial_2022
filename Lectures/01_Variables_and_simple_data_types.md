@@ -24,9 +24,14 @@
 - str()
 
 
+### Comments
+
+
 ### Variables
 - When we want to store or save for later some data.
 - Variables are used for labeling data.
+- Variable assignment (simple and multiple)
+
 
 
 ### String methods
