@@ -34,6 +34,7 @@
 - .replace()
 - .join()
 - .split()
+- .partition()
 - .islower()
 - .isupper()
 - .capitalize()
@@ -51,7 +52,12 @@
 ### String addition and multiplication
 
 
-### String indexing
+### String indexing and slicing
+
+
+### f-Strings
+
+
 
 
 
