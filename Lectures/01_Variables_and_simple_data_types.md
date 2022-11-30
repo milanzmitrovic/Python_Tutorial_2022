@@ -23,9 +23,26 @@
 - str()
 
 
-
 ### Variables
 - When we want to store or save for later some data.
+- Variables are used for labeling data.
+
+
+### String methods
+- .count()
+- .replace()
+- .join()
+- .split()
+- .islower()
+- .isupper()
+- .capitalize()
+- .upper()
+- .lower()
+- .strip()
+- .lstrip()
+- .rstrip()
+
+
 
 
 
