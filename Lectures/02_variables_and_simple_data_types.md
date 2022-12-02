@@ -21,6 +21,7 @@
 
 
 ### Boolean
+- True/False
 
 
 ### Strings
