@@ -20,6 +20,9 @@
 - float()
 
 
+### Boolean
+
+
 ### Strings
 - str()
 
@@ -53,7 +56,6 @@
 ### 'in' and 'not in' operator
 
 
-
 ### String addition and multiplication
 
 
@@ -61,6 +63,15 @@
 
 
 ### f-Strings
+
+### What is object in Python?
+- Theoretical idea
+- Practical point of view
+
+### Comparing Python objects
+- Comparing if objects contains same value
+- Comparing if two variables refers to same object
+- Comparing float objects
 
 
 
