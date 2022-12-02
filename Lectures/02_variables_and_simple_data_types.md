@@ -56,7 +56,17 @@
 ### 'in' and 'not in' operator
 
 
-### String addition and multiplication
+### String operators
+- Addition 
+- Multiplication
+
+### Integer/float operators
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Modulo
+- Exponentiation
 
 
 ### String indexing and slicing
