@@ -21,6 +21,7 @@
 - rm -rf 
 
 
+### Our example folder should look like this
 ```
 hotel_python/
 ├── garage
