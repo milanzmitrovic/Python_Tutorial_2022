@@ -21,3 +21,18 @@
 - rm -rf 
 
 
+```
+hotel_python/
+├── garage
+├── lobby
+│   ├── first_floor
+│   └── second_floor
+├── restaurant
+│   ├── fast_food
+│   └── mediteranian_restaurant
+└── spa_center
+    ├── spa_adults
+    └── spa_kids
+
+
+```
