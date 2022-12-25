@@ -19,6 +19,7 @@
 - cat
 - rm
 - rm -rf 
+- tree
 
 
 ### Our example folder should look like this
