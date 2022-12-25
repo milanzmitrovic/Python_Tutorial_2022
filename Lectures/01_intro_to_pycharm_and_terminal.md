@@ -23,7 +23,7 @@
 
 
 ### Our example folder should look like this
-```
+```bash
 
 mkdir hotel_python
 cd hotel_python
