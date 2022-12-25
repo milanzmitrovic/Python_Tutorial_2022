@@ -45,6 +45,7 @@ cd spa_center
 mkdir spa_adults
 mkdir spa_kids
 
+# When we run command 'tree hotel_python' we should get following output:
 hotel_python/
 ├── garage
 ├── lobby
