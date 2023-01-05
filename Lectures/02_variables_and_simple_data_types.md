@@ -399,6 +399,66 @@ print(id(peter))
 
 
 
+# 
+# !!!Creating new data 
+# 		VS 
+# Giving another/additional name to already existing data!!!
+# 
+# 
+# 
+# Equality of variables!!!
+# 
+# a = 300
+# b = a
+# 
+# a==b
+# # True
+# 
+# id(a) == id(b)
+# # True
+# 
+# 
+# —> Case 1: Both variables are pointing to same data/object.
+# 		In other words, both variables have same ID.
+# 		In other words, one object/data has two names. 
+# 
+# 
+# —> Case 2: Variables are pointing to different data/object.
+# 		In other words, variables have different IDs.
+# 		In other words, those are two object/data with two 
+# 		different names.
+# 
+# a = 300
+# b = 300
+# 
+# a==b
+# # True
+# 
+# id(a) == id(b)
+# # False
+# 
+# Two different terms:
+# 	- value of object/data
+# 	- ID of object/data
+# 
+# Comparison operator (==) is checking if object/data whose ID is
+# stored in variable on left side has same/equal/identical value as 
+# object/data whose ID is stored in variable on right side of equation.
+# 
+# 
+# We introduce new term: ‘Value that is stored in some variable’.
+# We know that this definition is not 100% correct, since we are NOT
+# storing data/object into/under variable (we are storing object/data ID),
+# we will use this term/definition since it is well accepted/present in 
+# python community.
+# It is data/object whose ID is stored in box named with variable name.
+# 
+# 
+# 
+
+
+
+
 
 ```
 
