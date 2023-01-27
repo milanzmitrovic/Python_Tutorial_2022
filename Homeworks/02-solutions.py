@@ -178,7 +178,7 @@ my_string_variable[4:17]
 # up to position 10 (including 10th character).
 # Tip: you should do inverse slicing sth like [-6: -4]
 
-my_string_variable[-16:-10][::-1]
+my_string_variable[-11:-5]
 my_string_variable
 
 # ------------------------------------------------------------------------------------------------ #
