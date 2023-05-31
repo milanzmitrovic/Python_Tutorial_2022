@@ -1,5 +1,5 @@
 
-python```
+```python
 
 # Create FastApi backend service with following features:
 #   - There is Pydantic BaseModel that helps us keep
